@@ -1,0 +1,432 @@
+@font-face {
+  font-family: Ubuntu;
+  src: url("../../public/assets/Font/Ubuntu/Ubuntu-Regular.ttf")
+    format("truetype");
+}
+@font-face {
+  font-family: Ubuntu-medium;
+  src: url("../../public/assets/Font/Ubuntu/Ubuntu-Medium.ttf")
+    format("truetype");
+}
+@font-face {
+  font-family: Montserrat-medium;
+  src: url("../../public/assets/Font/Montserrat/Montserrat/Montserrat-Medium.ttf")
+    format("truetype");
+}
+@font-face {
+  font-family: Montserrat-SemiBold;
+  src: url("../../public/assets/Font/Montserrat/Montserrat/Montserrat-SemiBold.ttf")
+    format("truetype");
+}
+:root {
+  font-family: Ubuntu !important;
+}
+body {
+  font-family: Ubuntu !important;
+  background-color: #f3f1ef !important;
+}
+
+.navbar-container {
+  background-color: #eeedec;
+
+  box-shadow: 0 4px 6px 0 rgba(99, 99, 99, 0.12);
+}
+.nav-link {
+  font-size: 18px !important;
+  font-weight: normal !important;
+  color: #124c53 !important;
+  font-weight: normal !important;
+  margin: 0 1rem !important;
+}
+.navbar-logo {
+  width: 10rem;
+}
+.Rectangle-4824 {
+  width: 138px;
+  height: 40px;
+  flex-grow: 0;
+  color: white;
+  padding-top: 8px;
+  padding-right: 8px;
+  padding-left: 34px;
+  padding-bottom: 8px;
+  border-radius: 24px;
+  box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.06);
+  border: solid 1px #dbd9d6;
+  background-color: #124c53;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-image: url("../../public/assets/arrow-down.svg");
+  background-repeat: no-repeat;
+  background-position-x: 75%;
+  background-position-y: 50%;
+}
+
+/*////Home//////*/
+.Perform-Male-Fertility-Test-From-The-Comfort-of-Your-Home {
+  width: 598px;
+  flex-grow: 0;
+  color: #124c53;
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 80px;
+  line-height: 90px;
+  @media screen and (max-width: 768px) {
+    font-size: 40px;
+    line-height: 50px;
+    width: 100%;
+    font-weight: 400;
+  }
+}
+.subtitle {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  color: #124c53;
+  font-family: "Ubuntu";
+  opacity: 0.9;
+  margin-top: 1rem;
+}
+.Home-title-container {
+  justify-content: space-evenly;
+  padding: 2rem 5rem;
+}
+.Home-title-text-container {
+  display: block !important;
+  text-align: start;
+  margin: auto;
+  align-items: center;
+}
+.register-btn {
+  flex-grow: 0;
+  margin-top: 3rem;
+  padding: 15px 78px;
+  border-radius: 24px;
+  background-color: #1ba39e;
+  border: none;
+  color: #fff;
+  font-size: 18px;
+}
+.contact-btn {
+  flex-grow: 0;
+  margin-top: 3rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  padding: 13px 78px;
+  background: rgba(27, 163, 158, 0.12);
+  border: 1px solid #1ba39e;
+  border-radius: 24px;
+  color: #124c53;
+  font-size: 18px;
+  text-decoration: none;
+}
+.Question-container {
+  background-image: url("../../public/assets/Group\ 68.png");
+  width: 100%;
+}
+.Question-div {
+  padding: 3rem;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.What-do-we-do {
+  /* flex-grow: 0; */
+  font-size: 4vw;
+  font-weight: 500;
+  font-family: "Ubuntu";
+  text-align: center;
+  color: #124c53;
+}
+.how-to-div {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: row;
+  width: 100vw;
+  @media screen and (max-width: 768px) {
+    flex-direction: column;
+  }
+}
+.Gila_Front_logo {
+  width: 100%;
+  @media screen and (max-width: 768px) {
+    width: 50%;
+  }
+}
+.number-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 2rem;
+}
+.numberTitle {
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 140px;
+  line-height: 171px;
+  color: #357880;
+  font-family: Montserrat-SemiBold;
+}
+.number-description {
+  font-family: "Ubuntu";
+  font-style: normal;
+  width: 18rem;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 29px;
+  color: #124c53;
+  opacity: 0.9;
+  text-align: center;
+  margin-top: 1rem;
+}
+hr.new1 {
+  margin: 2rem auto;
+  width: 80vw;
+  border-top: 2px solid rgba(162, 164, 165, 0.3);
+}
+.Question-div-text {
+  color: #f3f1ef;
+  font-size: 1.5vw;
+  padding-top: 0.5rem;
+}
+.How-container {
+  padding: 2rem 5rem;
+}
+.titles {
+  color: #124c53;
+  font-family: Ubuntu-medium;
+  font-size: 2.4rem;
+  font-weight: 500;
+}
+.Package-will-be-sent-to-your-home-containing-necessary-instructions {
+  font-family: Montserrat-medium;
+  font-size: 19px;
+  margin: 1rem 0;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.4;
+  letter-spacing: normal;
+  text-align: center;
+  color: #124c53;
+}
+.Rectangle-4782 {
+  text-align: center;
+  padding: 2rem;
+  width: 27vw;
+
+  /* border-radius: 24px; */
+  /* box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.06); */
+  /* border: solid 1px rgba(56, 56, 56, 0.12); */
+  /* background-color: rgba(233, 229, 225, 0.2); */
+}
+.male-test {
+  color: #124c53;
+  display: flex;
+  font-family: Ubuntu-medium !important;
+  justify-content: center;
+  font-size: 3rem;
+  margin-top: 1.5rem;
+}
+.img-desc {
+  color: #124c53;
+  display: block;
+  font-family: Montserrat-medium !important;
+  margin-top: 0.5rem;
+  margin: 1rem auto;
+  font-weight: 500;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.4;
+  letter-spacing: normal;
+  text-align: center;
+  width: 14rem;
+}
+
+.pattern {
+  width: 100%;
+  margin: 4rem 0;
+}
+.rec-text {
+  color: #124c53;
+  display: block;
+  font-family: Montserrat-medium !important;
+  margin-top: 1rem;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  text-align: center;
+}
+.Need-Contact {
+  font-family: Ubuntu;
+  font-size: 48px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #124c53;
+}
+.Fusce-eu-eros-nec-felis-venenatis-felis-venenatis-fermentum-sit-amet-eget-turpis-Integer-tempus-mas {
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #124c53;
+}
+.Rectangle-4791 {
+  border-radius: 24px;
+  box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.06);
+  border: solid 1px rgba(56, 56, 56, 0.12);
+  background-color: rgba(233, 229, 225, 0.2);
+  padding: 1rem 5rem;
+  margin: 2rem 0;
+}
+.Rectangle-4822 {
+  width: 100%;
+  height: 35vh;
+
+  padding: 2rem 5rem;
+  border: solid 1px #192c33;
+  background-color: #082e3b;
+}
+.video-container {
+  text-align: center;
+  padding: 2rem 4rem;
+}
+.Rectangle-4823 {
+  width: 100%;
+  height: 2vh;
+
+  background-color: #0d2730;
+}
+.menu-footer {
+  text-align: start;
+  color: white;
+  margin: 1rem auto;
+  justify-content: center;
+}
+.menu-footer-li {
+  margin: 0 5vw;
+}
+.Healthy-Weight {
+  flex-grow: 0;
+  position: absolute;
+  bottom: -2px;
+  right: 1px;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  text-align: left;
+  color: #124c53;
+}
+.how-div {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 0;
+}
+.improve-container {
+  padding: 3rem 9rem;
+}
+@media (max-width: 900px) {
+  .video-container {
+    padding: 2rem 0rem;
+    margin: auto !important;
+  }
+  .Home-title-container {
+    padding: 1rem;
+  }
+  .improve-container {
+    padding: 3rem 1rem;
+  }
+  .Perform-Male-Fertility-Test-From-The-Comfort-of-Your-Home {
+    width: auto;
+    text-align: center;
+  }
+  .Question-div {
+    padding: 3rem 1rem;
+  }
+  .How-container {
+    padding: 2rem 1rem;
+  }
+  .Rectangle-4782 {
+    width: auto;
+    margin: 1rem 0;
+  }
+  .how-div {
+    display: block;
+  }
+  .Rectangle-4822 {
+    padding: 2rem 1rem;
+  }
+  .s-title {
+    font-family: Montserrat-SemiBold;
+    font-size: 3rem;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.88;
+    letter-spacing: normal;
+    text-align: center;
+    color: #124c53 !important;
+  }
+
+  .What-do-we-do {
+    flex-grow: 0;
+    font-family: Ubuntu;
+    font-size: 2rem;
+    text-underline-position: auto;
+    text-decoration: underline;
+    text-decoration-thickness: 0.4rem;
+    text-decoration-color: #124c53;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: start;
+    color: #f3f1ef;
+  }
+  .Question-div-text {
+    color: #f3f1ef;
+    font-size: 1rem;
+    padding-top: 0.5rem;
+  }
+  .Home-title-text-container {
+    text-align: center;
+  }
+  .video-container {
+    margin: auto;
+  }
+  .contact-btn {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 1rem;
+  }
+  .register-btn {
+    margin-top: 1.5rem;
+  }
+  .how-to-prepare {
+    text-align: center;
+  }
+  .titles {
+    text-align: center;
+  }
+}

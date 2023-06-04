@@ -1,0 +1,695 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Avenir Next.zip
+FileModTime:1677584546
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirNextLTPro-Bold
+FamilyName:Avenir Next LT Pro
+StyleName:Bold
+FullName:Avenir Next LT Pro Bold
+MenuName:AvenirNext LT Pro Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Avenir Next\Avenir Next\AvenirNextLTPro-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:69772
+FileModTime:1411225978
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,AvenirNext LT Pro Bold
+NameArray:0,Mac,4,Avenir Next LT Pro Bold
+NameArray:0,Win,1,AvenirNext LT Pro Bold
+NameArray:0,Win,16,Avenir Next LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirNextLTPro-It
+FamilyName:Avenir Next LT Pro
+StyleName:Italic
+FullName:Avenir Next LT Pro Italic
+MenuName:AvenirNext LT Pro Regular
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Avenir Next\Avenir Next\AvenirNextLTPro-It.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59372
+FileModTime:1411225978
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,AvenirNext LT Pro It
+NameArray:0,Mac,4,Avenir Next LT Pro Italic
+NameArray:0,Win,1,AvenirNext LT Pro Regular
+NameArray:0,Win,16,Avenir Next LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirNextLTPro-Regular
+FamilyName:Avenir Next LT Pro
+StyleName:Regular
+FullName:Avenir Next LT Pro
+MenuName:AvenirNext LT Pro Regular
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Avenir Next\Avenir Next\AvenirNextLTPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:66800
+FileModTime:1411225978
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,AvenirNext LT Pro Regular
+NameArray:0,Mac,4,Avenir Next LT Pro
+NameArray:0,Win,1,AvenirNext LT Pro Regular
+NameArray:0,Win,16,Avenir Next LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Montserrat.zip
+FileModTime:1677584546
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Black
+FamilyName:Montserrat
+StyleName:Black
+FullName:Montserrat Black
+MenuName:Montserrat Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Montserrat\Montserrat\Montserrat-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:197888
+FileModTime:1323727200
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Montserrat Black
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-BlackItalic
+FamilyName:Montserrat
+StyleName:Black Italic
+FullName:Montserrat Black Italic
+MenuName:Montserrat Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Montserrat\Montserrat\Montserrat-BlackItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:202304
+FileModTime:1323727200
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Montserrat Black
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Bold
+FamilyName:Montserrat
+StyleName:Bold
+FullName:Montserrat Bold
+MenuName:Montserrat
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Montserrat\Montserrat\Montserrat-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:198072
+FileModTime:1323727200
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-BoldItalic
+FamilyName:Montserrat
+StyleName:Bold Italic
+FullName:Montserrat Bold Italic
+MenuName:Montserrat
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Montserrat\Montserrat\Montserrat-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:202492
+FileModTime:1323727200
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-ExtraBold
+FamilyName:Montserrat
+StyleName:ExtraBold
+FullName:Montserrat ExtraBold
+MenuName:Montserrat ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Montserrat\Montserrat\Montserrat-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:198148
+FileModTime:1323727200
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Montserrat ExtraBold
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-ExtraBoldItalic
+FamilyName:Montserrat
+StyleName:ExtraBold Italic
+FullName:Montserrat ExtraBold Italic
+MenuName:Montserrat ExtraBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Montserrat\Montserrat\Montserrat-ExtraBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:202460
+FileModTime:1323727200
+WeightClass:800
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Montserrat ExtraBold
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-ExtraLight
+FamilyName:Montserrat
+StyleName:ExtraLight
+FullName:Montserrat ExtraLight
+MenuName:Montserrat ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Montserrat\Montserrat\Montserrat-ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:197784
+FileModTime:1323727200
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Montserrat ExtraLight
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-ExtraLightItalic
+FamilyName:Montserrat
+StyleName:ExtraLight Italic
+FullName:Montserrat ExtraLight Italic
+MenuName:Montserrat ExtraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Montserrat\Montserrat\Montserrat-ExtraLightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:202364
+FileModTime:1323727200
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Montserrat ExtraLight
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Italic
+FamilyName:Montserrat
+StyleName:Italic
+FullName:Montserrat Italic
+MenuName:Montserrat
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Montserrat\Montserrat\Montserrat-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:202380
+FileModTime:1323727200
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Light
+FamilyName:Montserrat
+StyleName:Light
+FullName:Montserrat Light
+MenuName:Montserrat Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Montserrat\Montserrat\Montserrat-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:198072
+FileModTime:1323727200
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Montserrat Light
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-LightItalic
+FamilyName:Montserrat
+StyleName:Light Italic
+FullName:Montserrat Light Italic
+MenuName:Montserrat Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Montserrat\Montserrat\Montserrat-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:202524
+FileModTime:1323727200
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Montserrat Light
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Medium
+FamilyName:Montserrat
+StyleName:Medium
+FullName:Montserrat Medium
+MenuName:Montserrat Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Montserrat\Montserrat\Montserrat-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:198104
+FileModTime:1323727200
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Montserrat Medium
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-MediumItalic
+FamilyName:Montserrat
+StyleName:Medium Italic
+FullName:Montserrat Medium Italic
+MenuName:Montserrat Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Montserrat\Montserrat\Montserrat-MediumItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:202492
+FileModTime:1323727200
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Montserrat Medium
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Regular
+FamilyName:Montserrat
+StyleName:Regular
+FullName:Montserrat Regular
+MenuName:Montserrat
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Montserrat\Montserrat\Montserrat-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:197976
+FileModTime:1323727200
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-SemiBold
+FamilyName:Montserrat
+StyleName:SemiBold
+FullName:Montserrat SemiBold
+MenuName:Montserrat SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Montserrat\Montserrat\Montserrat-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:198204
+FileModTime:1323727200
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Montserrat SemiBold
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-SemiBoldItalic
+FamilyName:Montserrat
+StyleName:SemiBold Italic
+FullName:Montserrat SemiBold Italic
+MenuName:Montserrat SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Montserrat\Montserrat\Montserrat-SemiBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:202660
+FileModTime:1323727200
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Montserrat SemiBold
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Thin
+FamilyName:Montserrat
+StyleName:Thin
+FullName:Montserrat Thin
+MenuName:Montserrat Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Montserrat\Montserrat\Montserrat-Thin.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:197464
+FileModTime:1323727200
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Montserrat Thin
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-ThinItalic
+FamilyName:Montserrat
+StyleName:Thin Italic
+FullName:Montserrat Thin Italic
+MenuName:Montserrat Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Montserrat\Montserrat\Montserrat-ThinItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:201924
+FileModTime:1323727200
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Montserrat Thin
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Ubuntu.zip
+FileModTime:1677584546
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ubuntu-Bold
+FamilyName:Ubuntu
+StyleName:Bold
+FullName:Ubuntu Bold
+MenuName:Ubuntu
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Ubuntu\Ubuntu\Ubuntu-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:270164
+FileModTime:1292364000
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Ubuntu
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ubuntu-BoldItalic
+FamilyName:Ubuntu
+StyleName:Bold Italic
+FullName:Ubuntu Bold Italic
+MenuName:Ubuntu
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Ubuntu\Ubuntu\Ubuntu-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:283444
+FileModTime:1292364000
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Ubuntu
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ubuntu-Italic
+FamilyName:Ubuntu
+StyleName:Italic
+FullName:Ubuntu Italic
+MenuName:Ubuntu
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Ubuntu\Ubuntu\Ubuntu-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:326932
+FileModTime:1292364000
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Ubuntu
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ubuntu-Light
+FamilyName:Ubuntu
+StyleName:Light
+FullName:Ubuntu Light
+MenuName:Ubuntu Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Ubuntu\Ubuntu\Ubuntu-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:362552
+FileModTime:1292364000
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Ubuntu Light
+NameArray:0,Win,16,Ubuntu
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ubuntu-LightItalic
+FamilyName:Ubuntu
+StyleName:Light Italic
+FullName:Ubuntu Light Italic
+MenuName:Ubuntu Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Ubuntu\Ubuntu\Ubuntu-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:350208
+FileModTime:1292364000
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Ubuntu Light
+NameArray:0,Win,16,Ubuntu
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ubuntu-Medium
+FamilyName:Ubuntu
+StyleName:Medium
+FullName:Ubuntu Medium
+MenuName:Ubuntu Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Ubuntu\Ubuntu\Ubuntu-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:285136
+FileModTime:1292364000
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Ubuntu Medium
+NameArray:0,Win,16,Ubuntu
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ubuntu-MediumItalic
+FamilyName:Ubuntu
+StyleName:Medium Italic
+FullName:Ubuntu Medium Italic
+MenuName:Ubuntu Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Ubuntu\Ubuntu\Ubuntu-MediumItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:309648
+FileModTime:1292364000
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Ubuntu Medium
+NameArray:0,Win,16,Ubuntu
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ubuntu-Regular
+FamilyName:Ubuntu
+StyleName:Regular
+FullName:Ubuntu Regular
+MenuName:Ubuntu
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\admin\Desktop\New\GLIA App\archive\Font\Ubuntu\Ubuntu\Ubuntu-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:299684
+FileModTime:1292364000
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Ubuntu
+%EndFont
+
